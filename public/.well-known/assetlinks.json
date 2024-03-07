@@ -13,6 +13,30 @@
       "delegate_permission/common.get_login_creds"
     ],
     "target": {
+      "namespace": "Flow Wallet",
+      "package_name": "com.flowfoundation.wallet",
+      "sha256_cert_fingerprints": [
+        "F0:90:A4:4C:A0:70:C3:62:1A:A0:6D:59:AC:24:F4:9A:CB:48:7C:B2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "Flow Wallet DEV",
+      "package_name": "com.flowfoundation.wallet.dev",
+      "sha256_cert_fingerprints": [
+        "F0:90:A4:4C:A0:70:C3:62:1A:A0:6D:59:AC:24:F4:9A:CB:48:7C:B2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
       "namespace": "Lilico Dev",
       "package_name": "io.outblock.lilico.dev",
       "sha256_cert_fingerprints": [

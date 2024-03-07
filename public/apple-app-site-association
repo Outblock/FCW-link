@@ -5,7 +5,14 @@
 			{
 				"appID": "C7CT739SU9.io.outblock.lilico",
             	"paths": [ "*" ]
+        	},
+			{
+				"appID": "444MY26W7F.com.flowfoundation.wallet",
+            	"paths": [ "*" ]
         	}
-		]
+		],
+		"webcredentials": {
+			"apps": [ "C7CT739SU9.io.outblock.lilico"]
+		}
 	}
 }
