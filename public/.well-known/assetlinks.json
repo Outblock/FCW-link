@@ -18,7 +18,8 @@
       "namespace": "Flow Wallet",
       "package_name": "com.flowfoundation.wallet",
       "sha256_cert_fingerprints": [
-        "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81"
+        "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81",
+        "38:09:EB:5D:0E:E2:92:14:44:9C:22:77:FB:EA:C6:FD:AD:12:C1:85:40:5E:06:05:23:22:59:CA:1F:9D:05:A9"
       ]
     }
   },
@@ -31,7 +32,8 @@
       "namespace": "Flow Wallet DEV",
       "package_name": "com.flowfoundation.wallet.dev",
       "sha256_cert_fingerprints": [
-        "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81"
+        "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81",
+        "38:09:EB:5D:0E:E2:92:14:44:9C:22:77:FB:EA:C6:FD:AD:12:C1:85:40:5E:06:05:23:22:59:CA:1F:9D:05:A9"
       ]
     }
   },
