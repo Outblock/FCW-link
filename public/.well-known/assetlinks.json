@@ -15,7 +15,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "Flow Wallet",
+      "namespace": "android_app",
       "package_name": "com.flowfoundation.wallet",
       "sha256_cert_fingerprints": [
         "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81",
@@ -29,7 +29,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "Flow Wallet DEV",
+      "namespace": "android_app",
       "package_name": "com.flowfoundation.wallet.dev",
       "sha256_cert_fingerprints": [
         "B8:2E:8B:6E:34:DE:B3:AA:20:09:9A:CC:81:81:F6:1E:BF:C7:D2:AF:F4:9A:60:4E:77:EA:55:EA:C7:C8:B8:81",
@@ -43,7 +43,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "Lilico Dev",
+      "namespace": "android_app",
       "package_name": "io.outblock.lilico.dev",
       "sha256_cert_fingerprints": [
         "95:44:19:B4:8B:D2:14:50:AB:89:24:01:4F:0A:E0:60:55:E3:FF:BD:37:F3:73:56:69:65:6D:E8:44:5F:3D:D6"
@@ -56,7 +56,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "Lilico",
+      "namespace": "android_app",
       "package_name": "io.outblock.lilico",
       "sha256_cert_fingerprints": [
         "95:44:19:B4:8B:D2:14:50:AB:89:24:01:4F:0A:E0:60:55:E3:FF:BD:37:F3:73:56:69:65:6D:E8:44:5F:3D:D6"
